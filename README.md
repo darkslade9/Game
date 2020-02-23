@@ -5,7 +5,7 @@ Members:
 
 darkslade9
 
-Rishab Nair
+Rishab Nair:https://GitHub.com/FraGMenT72
 
 Joseph Sam: https://github.com/Joseph-Samuel-18
 
