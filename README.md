@@ -7,6 +7,8 @@ darkslade9
 
 Rishab Nair
 
-Joseph Sam
+Joseph Sam: https://github.com/Joseph-Samuel-18
 
 JoeyTheMaverick
+
+Kevin Paulson
