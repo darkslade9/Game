@@ -1,5 +1,10 @@
 # Game
-Work in progress
+Work in progress.
+
+Progress of the game as of right now:
+https://youtu.be/lwwJwvDpG5Y
+
+For more info go inside the prefabs and blender file.
 
 Members:
 
