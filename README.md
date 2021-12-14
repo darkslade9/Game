@@ -8,7 +8,7 @@ For more info go inside the prefabs and blender file.
 
 Members:
 
-darkslade9
+Chinmuanlal Nunthuk(darkslade9)
 
 Rishab Nair:https://GitHub.com/FraGMenT72
 
